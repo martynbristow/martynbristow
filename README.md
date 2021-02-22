@@ -10,6 +10,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Python, Data Science & Agile
 - 📫 How to reach me: martyn@hey.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 🏳️‍🌈
 - ⚡ Fun Facts: I've 3 furry friends: Meg, Mittens and Maisie 🐈 - Steam Train Enthusiast 🚂
 
