@@ -3,16 +3,13 @@
 <!--
 **martynbristow/martynbristow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... nothing 
+- 🔭 I’m currently working on - Testing some @civo platform
 - 🌱 I’m currently learning ... Kotlin
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on any Python, Data Science or DevOps - Hit Me Up 📨
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
+- 💬 Ask me about ... Python, Data Science & Agile
+- 📫 How to reach me: martyn@hey.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:
-  - I've 3 furry friends: Meg, Mittens and Maisie
-  - Steam Train Enthusiaste 
+- ⚡ Fun Facts: I've 3 furry friends: Meg, Mittens and Maisie 🐈 - Steam Train Enthusiast 🚂
 
