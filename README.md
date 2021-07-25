@@ -11,5 +11,5 @@
 - 💬 Ask me about ... Python, Data Science & Agile
 - 📫 How to reach me: martyn@hey.com
 - 😄 Pronouns: he/him 🏳️‍🌈
-- ⚡ Fun Facts: I've 3 furry friends: Meg, Mittens and Maisie 🐈 - Steam Train Enthusiast 🚂
+- ⚡ Fun Facts: I've 4 furry friends: Meg, Maisie, Gojo and Yuji 🐈 - Steam Train Enthusiast 🚂
 
