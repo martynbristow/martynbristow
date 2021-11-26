@@ -5,11 +5,10 @@
 -->
 
 - 🔭 I’m currently working on - Testing some @civo platform
-- 🌱 I’m currently learning ... Kotlin
+- 🌱 I’m currently learning ... GoLang
 - 👯 I’m looking to collaborate on any Python, Data Science or DevOps - Hit Me Up 📨
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Python, Data Science & Agile
-- 📫 How to reach me: martyn@hey.com
+- 📫 How to reach me: martyn@hey.com or twitter.com/martyncodes
 - 😄 Pronouns: he/him 🏳️‍🌈
 - ⚡ Fun Facts: I've 4 furry friends: Meg, Maisie, Gojo and Yuji 🐈 - Steam Train Enthusiast 🚂
-
